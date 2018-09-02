@@ -1,0 +1,54 @@
+input[type=text]{
+max-width: 20ch; 
+}
+
+input[type=text]{
+background-color: lightblue;   
+color: black;
+font-weight: bold;
+}
+
+input[type=text]:focus{
+    background-color: white
+}
+
+input[type=endereco]{
+max-width: 30ch; 
+}
+
+input[type=endereco]{
+background-color: lightblue;   
+color: black;
+font-weight: bold;
+}
+
+input[type=endereco]:focus{
+    background-color: white;
+}
+
+.aaa{
+ background-color: lightblue;  
+ font-weight: bold;
+}
+
+
+textarea:focus{
+	background-color: white;
+}
+
+.it{ 
+	font-style: italic 
+}
+
+.
+
+
+
+
+
+
+
+
+
+
+
